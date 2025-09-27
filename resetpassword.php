@@ -40,7 +40,7 @@ $mailer->SMTPOptions = [
 $mailer->Host = 'mail.ncode.ge';
 $mailer->SMTPAuth = true;
 $mailer->Username = 'rfrp@ncode.ge';
-$mailer->Password = 'NodoMariShanidze18';
+$mailer->Password = 'xx';
 $mailer->SMTPSecure = 'tls'; //'tls'
 // $mailer->SMTPAutoTLS = false;
 $mailer->Port = 587; //587, 465, 25, 2525 have been tested
@@ -109,13 +109,13 @@ if(isset($_POST['reset_password_user']) && $_SERVER["REQUEST_METHOD"] == "POST" 
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com'; // Your SMTP server
         $mail->SMTPAuth = true;
-        $mail->Username = 'lukai3oss@gmail.com';
+        $mail->Username = 'xxx@gmail.com';
         $mail->Password = 'vjvendgygxhrqful';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
         $mail->CharSet  = 'UTF-8';
         // Sender and recipient settings
-        $mail->setFrom('lukai3oss@gmail.com', 'Realmforge RolePlay Administration');
+        $mail->setFrom('xxx@gmail.com', 'Realmforge RolePlay Administration');
         $mail->addAddress($email, 'Recipient');
          
       
@@ -309,4 +309,5 @@ toastr.options = {
 
 </body>
 </html>
+
  
