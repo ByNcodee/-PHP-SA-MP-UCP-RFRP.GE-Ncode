@@ -24,7 +24,7 @@ $conn = OpenCon();
     <meta property="og:description" content="Realmforge RolePlay ქართული SA-MP პროექტი, შექმენი შენი ვირტუალური სამყარო აქ!">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
     <link rel="stylesheet" href="stylee/main.css">
-    <link rel="icon" type="image/x-icon" href="https://rfrp.ge/images/logo.png">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 <body>
 
@@ -36,7 +36,7 @@ $conn = OpenCon();
 <header>
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
-        <img src="https://rfrp.ge/images/thumb.svg" alt="RFRP THUMB" class="w-100 thumb_">
+        <img src="images/thumb.svg" alt="RFRP THUMB" class="w-100 thumb_">
         <div class="carousel-caption">
         <h5>შემოგვიერთდი</h5>
         <p>ჩაიწერე და გახდი ჩვენი წევრი შენც.</p>
@@ -50,11 +50,11 @@ $conn = OpenCon();
 <section class="mt-7 py-5 launcher_section">
     <div class="container d-flex launcher_div">
     <div>
-        <img src="https://rfrp.ge/images/gasgasgas.png" alt="" class="image_launcher_container" srcset="">
+        <img src="images/gasgasgas.png" alt="" class="image_launcher_container" srcset="">
     </div>
     <div class="launcher_download_container_block">
         <div class="effect_01"></div>
-        <img src="https://rfrp.ge/images/wow.png" class="emoji_01" alt="" srcset="">
+        <img src="images/wow.png" class="emoji_01" alt="" srcset="">
         <h1 class="fw-light text-light">ქართული SA-MP პროექტი Realmforge Role Play</h1>
         <p class="lead"> შექმენი შენი ვირტუალური რეალობა აქ! ჩაიწერე ლაუნჩერი და შემოგვიერთდი.</p>
         <div class="download_rfrp" data-tooltip="მზადებაშია">
@@ -167,7 +167,7 @@ $conn = OpenCon();
             </div>
             <div class="card-footer" bis_skin_checked="1">
                 <div class="media" bis_skin_checked="1">
-                <img class="mr-3 rounded-circle" src="https://rfrp.ge/images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
+                <img class="mr-3 rounded-circle" src="images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
                 <div class="media-body" bis_skin_checked="1">
                     <h6 class="my-0 text-light d-block">N.Shanidze</h6>
                     <small class="text-light">Developer</small>
@@ -188,7 +188,7 @@ $conn = OpenCon();
             </div>
             <div class="card-footer" bis_skin_checked="1">
                 <div class="media" bis_skin_checked="1">
-                <img class="mr-3 rounded-circle" src="https://rfrp.ge/images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
+                <img class="mr-3 rounded-circle" src="images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
                 <div class="media-body" bis_skin_checked="1">
                     <h6 class="my-0 text-light d-block">N.Shanidze</h6>
                     <small class="text-light">Developer</small>
@@ -209,7 +209,7 @@ $conn = OpenCon();
             </div>
             <div class="card-footer" bis_skin_checked="1">
                 <div class="media" bis_skin_checked="1">
-                <img class="mr-3 rounded-circle" src="https://rfrp.ge/images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
+                <img class="mr-3 rounded-circle" src="images/ncode.jpg" alt="Generic placeholder image" style="max-width:50px">
                 <div class="media-body" bis_skin_checked="1">
                     <h6 class="my-0 text-light d-block">N.Shanidze</h6>
                     <small class="text-light">Developer</small>

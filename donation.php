@@ -13,7 +13,7 @@ $conn = OpenCon();
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
     <link rel="stylesheet" href="stylee/main.css">
-    <link rel="icon" type="image/x-icon" href="https://rfrp.ge/images/logo.png">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
     </head>
 <body>
  
@@ -41,7 +41,7 @@ $conn = OpenCon();
         <form class="donation_form">
             <br>
             <h3 class="donation_text">დონაცია</h3>
-            <img src="https://rfrp.ge/images/gift.png" class="gift_effect">
+            <img src="images/gift.png" class="gift_effect">
             <div class="input-container">
                 <input class="input" name="p_username" type="text" value="<?php  if(isset($_SESSION["web_user"])){echo $_SESSION["web_user"];}?>" placeholder="სახელი_გვარი">
                 <label class="label" for="input">შეიყვანეთ მოთამაშე</label>

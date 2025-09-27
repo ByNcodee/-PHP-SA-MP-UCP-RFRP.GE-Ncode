@@ -1,7 +1,7 @@
 <footer>
     <div class="footer_block_">
     <a class="navbar-brand rfrp_logo" href="https://rfrp.ncode.ge/">
-        <img src="https://rfrp.ge/images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
+        <img src="images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
     </a>
     </div>
     <div class="footer_block_">

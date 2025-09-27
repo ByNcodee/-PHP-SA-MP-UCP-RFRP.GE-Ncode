@@ -1,6 +1,6 @@
 <div class="loader_block" id="l_ss">
     <div class="cardloader">
-    <img src="https://rfrp.ge/images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
+    <img src="images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
     <div class="loader">
         <p>იტვირთება</p>
         <div class="words">
@@ -17,7 +17,7 @@
 <nav class="navbar navbar-expand-lg fixed-top">
     <div class="container">
     <a class="navbar-brand rfrp_logo" href="index.php" >
-        <img src="https://rfrp.ge/images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
+        <img src="images/RFRP.png" class="rfrp_is_brand" alt="Realmforge RolePlay Logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

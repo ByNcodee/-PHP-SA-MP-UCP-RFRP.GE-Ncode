@@ -88,7 +88,7 @@ else {
      
     <link rel="stylesheet" href="scripts/Toast/toastr.css">
 
-    <link rel="icon" type="image/x-icon" href="https://rfrp.ge/images/logo.png">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 <body>
  
@@ -104,7 +104,7 @@ else {
 <form action="" method="post" enctype="multipart/form-data">
   <div class="form-group">
     <div class="text_login_box">
-        <img src="https://rfrp.ge/images/logo.png" class="rfrp_is_brand_login" alt="Realmforge RolePlay">  
+        <img src="images/logo.png" class="rfrp_is_brand_login" alt="Realmforge RolePlay">  
         <h4>ანგარიშზე შესვლა</h4>
     </div>
     <label for="formGroupExampleInput" class="text-light">მოთამაშის სახელი</label>
